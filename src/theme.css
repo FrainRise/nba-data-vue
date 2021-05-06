@@ -1,0 +1,368 @@
+/* TEAMS COLORS */
+
+.header__abbr-atl {
+    background-color: #e03a3e;
+    border-color: #e03a3e;
+    color: #C1D32F;
+}
+
+.body__abbr-atl {
+    background-color: #C1D32F;
+    border-color: #C1D32F;
+    color: #e03a3e;
+}
+
+.header__abbr-bos {
+    background-color: #000;
+    border-color: #000;
+    color: #007A33;
+}
+
+.body__abbr-bos {
+    background-color: #007A33;
+    border-color: #007A33;
+    color: #000;
+}
+
+.header__abbr-bkn {
+    background-color: #000;
+    border-color: #fff;
+    color: #fff;
+}
+
+.body__abbr-bkn {
+    background-color: #fff;
+    border: 1px solid #000;
+    color: #000;
+}
+
+.header__abbr-cha {
+    background-color: #1d1160;
+    border-color: #1d1160;
+    color: #00788C;
+}
+
+.body__abbr-cha {
+    background-color: #00788C;
+    border-color: #00788C;
+    color: #1d1160;
+}
+
+.header__abbr-chi {
+    background-color: #000;
+    border-color: #000;
+    color: #CE1141;
+}
+
+.body__abbr-chi {
+    background-color: #CE1141;
+    border-color: #CE1141;
+    color: #000;
+}
+
+.header__abbr-cle {
+    background-color: #860038;
+    border-color: #860038;
+    color: #FDBB30;
+}
+
+.body__abbr-cle {
+    background-color: #FDBB30;
+    border-color: #FDBB30;
+    color: #860038;
+}
+
+.header__abbr-dal {
+    background-color: #002B5e;
+    border-color: #002B5e;
+    color: #B8C4CA;
+}
+
+.body__abbr-dal {
+    background-color: #B8C4CA;
+    border-color: #B8C4CA;
+    color: #002B5e;
+}
+
+.header__abbr-den {
+    background-color: #0E2240;
+    border-color: #0E2240;
+    color: #FEC524;
+}
+
+.body__abbr-den {
+    background-color: #FEC524;
+    border-color: #FEC524;
+    color: #0E2240;
+}
+
+.header__abbr-det {
+    background-color: #1d42ba;
+    border-color: #1d42ba;
+    color: #bec0c2;
+}
+
+.body__abbr-det {
+    background-color: #002D62;
+    border-color: #002D62;
+    color: #bec0c2;
+}
+
+.header__abbr-gsw {
+    background-color: #006BB6;
+    border-color: #006BB6;
+    color: #FDB927;
+}
+
+.body__abbr-gsw {
+    background-color: #FDB927;
+    border-color: #FDB927;
+    color: #006BB6;
+}
+
+.header__abbr-hou {
+    background-color: #000;
+    border-color: #000;
+    color: #C4CED4;
+}
+
+.body__abbr-hou {
+    background-color: #CE1141;
+    border-color: #CE1141;
+    color: #C4CED4;
+}
+
+.header__abbr-ind {
+    background-color: #FDBB30;
+    border-color: #FDBB30;
+    color: #002D62;
+}
+
+.body__abbr-ind {
+    background-color: #002D62;
+    border-color: #002D62;
+    color: #FDBB30;
+}
+
+.header__abbr-lac {
+    background-color: #c8102E;
+    border-color: #c8102E;
+    color: #BEC0C2;
+}
+
+.body__abbr-lac {
+    background-color: #1d428a;
+    border-color: #1d428a;
+    color: #BEC0C2;
+}
+
+.header__abbr-lal {
+    background-color: #552583;
+    border-color: #552583;
+    color: #FDB927;
+}
+
+.body__abbr-lal {
+    background-color: #FDB927;
+    border-color: #FDB927;
+    color: #552583;
+}
+
+.header__abbr-mem {
+    background-color: #12173F;
+    border-color: #12173F;
+    color: #5D76A9;
+}
+
+.body__abbr-mem {
+    background-color: #5D76A9;
+    border-color: #5D76A9;
+    color: #12173F;
+}
+
+.header__abbr-mia {
+    background-color: #F9A01B;
+    border-color: #F9A01B;
+    color: #98002E;
+}
+
+.body__abbr-mia {
+    background-color: #98002E;
+    border-color: #98002E;
+    color: #F9A01B;
+}
+
+.header__abbr-mil {
+    background-color: #00471B;
+    border-color: #00471B;
+    color: #eee1c6;
+}
+
+.body__abbr-mil {
+    background-color: #EEE1C6;
+    border-color: #EEE1C6;
+    color: #00471B;
+}
+
+.header__abbr-min {
+    background-color: #236192;
+    border-color: #236192;
+    color: #0C2340;
+}
+
+.body__abbr-min {
+    background-color: #0C2340;
+    border-color: #0C2340;
+    color: #236192;
+}
+
+.header__abbr-nop {
+    background-color: #C8102E;
+    border-color: #C8102E;
+    color: #0C2340;
+}
+
+.body__abbr-nop {
+    background-color: #0C2340;
+    border-color: #0C2340;
+    color: #C8102E;
+}
+
+.header__abbr-nyk {
+    background-color: #F58426;
+    border-color: #F58426;
+    color: #5D76A9;
+}
+
+.body__abbr-nyk {
+    background-color: #5D76A9;
+    border-color: #5D76A9;
+    color: #F58426;
+}
+
+.header__abbr-okc {
+    background-color: #ef3b24;
+    border-color: #ef3b24;
+    color: #002D62;
+}
+
+.body__abbr-okc {
+    background-color: #007ac1;
+    border-color: #007ac1;
+    color: #002D62;
+}
+
+.header__abbr-orl {
+    background-color: #C4ced4;
+    border-color: #C4ced4;
+    color: #000;
+}
+
+.body__abbr-orl {
+    background-color: #5D76A9;
+    border-color: #5D76A9;
+    color: #000;
+}
+
+.header__abbr-phi {
+    background-color: #ed174c;
+    border-color: #ed174c;
+    color: #c4ced4;
+}
+
+.body__abbr-phi {
+    background-color: #006bb6;
+    border-color: #006bb6;
+    color: #c4ced4;
+}
+
+.header__abbr-phx {
+    background-color: #F58426;
+    border-color: #F58426;
+    color: #1d1160;
+}
+
+.body__abbr-phx {
+    background-color: #1d1160;
+    border-color: #1d1160;
+    color: #F58426;
+}
+
+.header__abbr-por {
+    background-color: #E03A3E;
+    border-color: #E03A3E;
+    color: #000;
+}
+
+.body__abbr-por {
+    background-color: #000;
+    border-color: #000;
+    color: #E03A3E;
+}
+
+.header__abbr-sac {
+    background-color: #63727A;
+    border-color: #63727A;
+    color: #5a2d81;
+}
+
+.body__abbr-sac {
+    background-color: #5a2d81;
+    border-color: #5a2d81;
+    color: #63772A;
+}
+
+.header__abbr-sas {
+    background-color: #000;
+    border-color: #000;
+    color: #c4ced4;
+}
+
+.body__abbr-sas {
+    background-color: #c4ced4;
+    border-color: #c4ced4;
+    color: #000;
+}
+
+.header__abbr-tor {
+    background-color: #ce1141;
+    border-color: #ce1141;
+    color: #000;
+}
+
+.body__abbr-tor {
+    background-color: #000;
+    border-color: #000;
+    color: #ce1141;
+}
+
+.header__abbr-uta {
+    background-color: #002B5C;
+    border-color: #002B5C;
+    color: #F9A01B;
+}
+
+.body__abbr-uta {
+    background-color: #00471B;
+    border-color: #00471B;
+    color: #F9A01B;
+}
+
+.header__abbr-was {
+    background-color: #002B5C;
+    border-color: #002B5C;
+    color: #e31837;
+}
+
+.body__abbr-was {
+    background-color: #e31837;
+    border-color: #e31837;
+    color: #002B5C;
+}
+
+.header__abbr-none,
+.body__abbr-none {
+    background-color: #adadad;
+    border-color: #adadad;
+    color: #000;
+}
