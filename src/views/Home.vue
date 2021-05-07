@@ -29,7 +29,7 @@ export default {
 .ball {
     width: 100px;
     height: 100px;
-    animation: jump-ball 1s alternate infinite ease;
+    animation: jump-ball 1s alternate infinite ease-in-out;
 }
 
 .ball-shadow {
@@ -38,33 +38,33 @@ export default {
     height: 5px;
     border-radius: 50%;
     background-color: rgba(0,0,0,.7);
-    animation: shadow 1s alternate infinite ease;
+    animation: shadow 1s alternate infinite ease-in-out;
 }
 
 @keyframes jump-ball {
     0%{
-        transform: translateY(0);
+        transform: translateY(0) rotate(0deg);
     }
     50%{
-        transform: translateY(-125px);
+        transform: translateY(-125px) rotate(360deg);
 
     }
     100%{
-        transform: translateY(0);
+        transform: translateY(0) rotate(720deg);
     }
 
 }
 
 @keyframes shadow {
     0%{
-        transform: scale(1);
+        transform: scale(.7);
     }
     50%{
-        transform: scale(.5);
+        transform: scale(1.2);
 
     }
     100%{
-        transform: scale(1);
+        transform: scale(.7);
     }
 
 }

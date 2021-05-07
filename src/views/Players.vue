@@ -1,6 +1,6 @@
 <template>
   <div class="players-container">
-      <PlayersList :players="players" />
+      <PlayersList :players="players" :initialPlayers="initialPlayers" />
   </div>
 </template>
 
